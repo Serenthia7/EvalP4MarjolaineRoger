@@ -1,0 +1,9 @@
+<div *ngIf="applications.length === 0">
+  <p>Aucune application trouvée.</p>
+</div>
+
+<ul>
+  <li *ngFor="let app of applications">
+    <strong>{{ app.name }}</strong> ({{ app.type }})
+  </li>
+</ul>
