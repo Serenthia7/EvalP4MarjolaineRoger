@@ -160,3 +160,5 @@ C:\Users\Marjolaine\source\repos\EvalP4MarjolaineRoger\API\EvalP4\EvalP4\bin\Deb
 C:\Users\Marjolaine\source\repos\EvalP4MarjolaineRoger\API\EvalP4\EvalP4\bin\Debug\net8.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
 C:\Users\Marjolaine\source\repos\EvalP4MarjolaineRoger\API\EvalP4\EvalP4\bin\Debug\net8.0\runtimes\win-x64\native\SqlServerSpatial160.dll
 C:\Users\Marjolaine\source\repos\EvalP4MarjolaineRoger\API\EvalP4\EvalP4\bin\Debug\net8.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\Marjolaine\Source\Repos\EvalP4MarjolaineRoger\API\EvalP4\EvalP4\bin\Debug\net8.0\Services.dll
+C:\Users\Marjolaine\Source\Repos\EvalP4MarjolaineRoger\API\EvalP4\EvalP4\bin\Debug\net8.0\Services.pdb

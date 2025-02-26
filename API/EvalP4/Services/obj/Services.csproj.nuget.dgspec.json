@@ -1,15 +1,93 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj": {}
+    "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj": {
+    "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\Marjolaine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marjolaine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Marjolaine\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\obj\\",
         "projectStyle": "PackageReference",
@@ -31,7 +109,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

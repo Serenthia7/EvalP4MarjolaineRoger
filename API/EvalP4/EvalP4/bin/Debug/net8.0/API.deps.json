@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer.Abstractions": "8.0.13",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.13",
           "Repositories": "1.0.0",
+          "Services": "1.0.0",
           "Swashbuckle.AspNetCore": "7.2.0"
         },
         "runtime": {
@@ -1039,6 +1040,17 @@
         "runtime": {
           "Repositories.dll": {}
         }
+      },
+      "Services/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer.Abstractions": "8.0.13",
+          "Repositories": "1.0.0"
+        },
+        "runtime": {
+          "Services.dll": {}
+        }
       }
     }
   },
@@ -1637,6 +1649,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

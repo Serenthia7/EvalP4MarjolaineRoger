@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Repositories.Repositories
 {
-    internal class PasswordRepository : IPasswordRepository
+    public class PasswordRepository : IPasswordRepository
     {
         private readonly AppDbContext context;
 

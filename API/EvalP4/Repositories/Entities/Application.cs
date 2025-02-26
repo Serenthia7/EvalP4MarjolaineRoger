@@ -26,4 +26,10 @@ namespace Repositories.Entities
         public int TypeApplicationId { get; set; }
         public virtual ICollection<Password> Passwords { get; set; }
     }
+
+    public enum ApplicationType
+    {
+        GrandPublic,    // Chiffrement AES
+        Professionnelle // Chiffrement RSA
+    }
 }
