@@ -1,0 +1,6 @@
+@EvalP4_HostAddress = http://localhost:5161
+
+GET {{EvalP4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
