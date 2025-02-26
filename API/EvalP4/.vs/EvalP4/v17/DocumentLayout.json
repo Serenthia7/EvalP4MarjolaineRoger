@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\repositories\\repositoriescontracts\\iencryp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositoriescontracts\\iencryp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\services\\encryptaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\services\\encryptaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\services\\encryptrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\services\\encryptrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\services\\dynamicencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\services\\dynamicencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\servicescontracts\\iencryp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\servicescontracts\\iencryp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\servicescontracts\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\servicescontracts\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\evalp4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|solutionrelative:evalp4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\repositories\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\evalp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|solutionrelative:evalp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\evalp4\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|solutionrelative:evalp4\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\repositories\\repositories\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\evalp4\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|solutionrelative:evalp4\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\dtos\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\dtos\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\servicescontracts\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\servicescontracts\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\evalp4\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|solutionrelative:evalp4\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\repositories\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\repositories\\entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\repositories\\repositoriescontracts\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositoriescontracts\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\repositories\\repositoriescontracts\\ipasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63E3D1-CF4A-46D7-9759-7D6B3A545DEF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositoriescontracts\\ipasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\evalp4\\evalp4.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D012D380-02AE-4A2E-8522-DBCA3239A42C}|EvalP4\\API.csproj|solutionrelative:evalp4\\evalp4.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|c:\\users\\marjolaine\\source\\repos\\evalp4marjolaineroger\\api\\evalp4\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11841A15-A10C-4119-A3B3-1F152C56D398}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEncryp.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\ServicesContracts\\IEncryp.cs",
+              "RelativeDocumentMoniker": "Services\\ServicesContracts\\IEncryp.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\ServicesContracts\\IEncryp.cs",
+              "RelativeToolTip": "Services\\ServicesContracts\\IEncryp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:12:27.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\ServicesContracts\\IPasswordService.cs",
+              "RelativeDocumentMoniker": "Services\\ServicesContracts\\IPasswordService.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\ServicesContracts\\IPasswordService.cs",
+              "RelativeToolTip": "Services\\ServicesContracts\\IPasswordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:08:42.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DynamicEncrypt.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\DynamicEncrypt.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\DynamicEncrypt.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\DynamicEncrypt.cs",
+              "RelativeToolTip": "Services\\Services\\DynamicEncrypt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:03:59.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptRSA.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\EncryptRSA.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\EncryptRSA.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\EncryptRSA.cs",
+              "RelativeToolTip": "Services\\Services\\EncryptRSA.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:03:23.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptAES.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\EncryptAES.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\EncryptAES.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\EncryptAES.cs",
+              "RelativeToolTip": "Services\\Services\\EncryptAES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:02:56.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEncryp.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\RepositoriesContracts\\IEncryp.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoriesContracts\\IEncryp.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\RepositoriesContracts\\IEncryp.cs",
+              "RelativeToolTip": "Repositories\\RepositoriesContracts\\IEncryp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:01:32.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\PasswordService.cs",
+              "RelativeToolTip": "Services\\Services\\PasswordService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:16:00.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\ServicesContracts\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "Services\\ServicesContracts\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\ServicesContracts\\IApplicationService.cs",
+              "RelativeToolTip": "Services\\ServicesContracts\\IApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:11:27.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\DTOs\\PasswordDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\PasswordDto.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\DTOs\\PasswordDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\PasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:09:28.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\DTOs\\ApplicationDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\ApplicationDto.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\DTOs\\ApplicationDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\ApplicationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:04:51.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "Services\\Services\\ApplicationService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:00:35.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "EvalP4\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "EvalP4\\Controllers\\ApplicationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:13:45.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\appsettings.json",
+              "RelativeDocumentMoniker": "EvalP4\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\appsettings.json",
+              "RelativeToolTip": "EvalP4\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T12:48:46.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\MiddleWare.cs",
+              "RelativeDocumentMoniker": "EvalP4\\MiddleWare.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\MiddleWare.cs",
+              "RelativeToolTip": "EvalP4\\MiddleWare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:47:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\Program.cs",
+              "RelativeDocumentMoniker": "EvalP4\\Program.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\Program.cs",
+              "RelativeToolTip": "EvalP4\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:38:53.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\Application.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Entities\\Application.cs",
+              "RelativeToolTip": "Repositories\\Entities\\Application.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:53:55.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories\\PasswordRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\PasswordRepository.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories\\PasswordRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\PasswordRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:29:49.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\Controllers\\PasswordController.cs",
+              "RelativeDocumentMoniker": "EvalP4\\Controllers\\PasswordController.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\Controllers\\PasswordController.cs",
+              "RelativeToolTip": "EvalP4\\Controllers\\PasswordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:19:02.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\ApplicationRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:11:39.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\RepositoriesContracts\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoriesContracts\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\RepositoriesContracts\\IApplicationRepository.cs",
+              "RelativeToolTip": "Repositories\\RepositoriesContracts\\IApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:02:40.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Entities\\Password.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\Password.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\Entities\\Password.cs",
+              "RelativeToolTip": "Repositories\\Entities\\Password.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:53:41.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "Repositories\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:30:19.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPasswordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\RepositoriesContracts\\IPasswordRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoriesContracts\\IPasswordRepository.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Repositories\\RepositoriesContracts\\IPasswordRepository.cs",
+              "RelativeToolTip": "Repositories\\RepositoriesContracts\\IPasswordRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:02:49.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\Marjolaine\\Source\\Repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T10:07:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EvalP4.http",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\EvalP4.http",
+              "RelativeDocumentMoniker": "EvalP4\\EvalP4.http",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\EvalP4\\EvalP4.http",
+              "RelativeToolTip": "EvalP4\\EvalP4.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-26T08:39:34.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\Marjolaine\\source\\repos\\EvalP4MarjolaineRoger\\API\\EvalP4\\Services\\Class1.cs",
+              "RelativeToolTip": "Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:30:00.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
